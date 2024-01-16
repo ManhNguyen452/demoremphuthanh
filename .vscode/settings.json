@@ -1,0 +1,10 @@
+{
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    }
+} // {
+//     "files.exclude": {
+//         "**/*.css": true
+//     }
+// }
